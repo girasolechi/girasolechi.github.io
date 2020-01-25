@@ -1,5 +1,5 @@
 # Site settings
-title: Stefany Samp
+title: stefany / girasolechi
 email: girasolechi@gmail.com
 url: https://girasolechi.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
@@ -35,9 +35,7 @@ social:
   - title: twitter
     url: http://twitter.com/girasolechi
   - title: linkedin
-    url: http://linkedin.com/linkedin/stefanysamp
-  - title: orcid
-    url: https://orcid.org/0000-0002-7648-0229
+    url: www.linkedin.com/in/stefanysamp
   - title: github
     url: http://github.com/girasolechi
 
