@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2020-01-25
-img: magazines.jpeg
+img: magazines.jpg
 alt: image-alt
 project-date: January 2020
 client: Start Bootstrap
