@@ -4,7 +4,7 @@ email: girasolechi@gmail.com
 url: https://girasolechi.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "Analytics, Audit, CCEP, Copyediting, CPA, Data Visualization, Power BI, Program Management, Python, R, Risk Assessments, Tableau, Training"
-skills: "Experienced professional learning data science, excited to be leaving Excel and end-user visualization tools behind."
+skills: "Data Science Newbie - Data Visualiztion Pro""
 meta_author: Samp Stefany
 
 # Google webmaster tools
@@ -25,9 +25,9 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: a9b7c0 #a9b7c0
+  primary: c7d8c6 #a9b7c0
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: c7d8c6 #c7d8c6
+  secondary: a9b7c0 #c7d8c6
   secondary-dark: aaaaaa #aaaaaa
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
