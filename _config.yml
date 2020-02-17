@@ -1,57 +1,36 @@
-# Site
-name: 'Stefany Samp (girasolechi)'
-description: 'Newbie R User | Accounting, Audit & Compliance Professional'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-baseurl: '/mundana-theme-jekyll'
-disqus: ''
-email: 'girasolechi@gmail.com'
+# site settings
+title: Stefany Samp 
+subtitle: girasolechi
+email: girasole@gmail.com
+description: Newbie R User | Accounting, Audit & Compliance Professional
+baseurl: "/home" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 
+city: Chicago
+state: IL
+zip_code: 
+country: United States of America
+phone: 
 
-include: ["_pages"]
-permalink: /:title/
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
 
-# Plugins
-plugins: 
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-seo-tag
-  
-authors:
-    sal:
-      name:           Stefany
-      site:           github.com/girasolechi
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Hi, I'm Stefany."
-      email:          girasolechi@gmail.com
-      twitter:        https://twitter.com/girasolechi
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/girasolechi
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/stefanysamp
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/girasolechi
 
- 
-# Defaults
-defaults:
-
-  # all posts
-  - scope:
-      path: "_posts"
-    values:
-      layout: post
-      author: sal
-      avatar: /assets/images/avatar2.jpg
-      
-  # all pages
-  - scope:
-      path: "_pages"
-    values:
-      layout: page
-      
-# Syntax
+# build settings
 markdown: kramdown
-highlighter: rouge
 
-# Paginate
-paginate: 10
-
-
-
-# Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+sass:
+  style: compressed
