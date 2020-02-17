@@ -3,7 +3,7 @@ title: Stefany Samp
 subtitle: girasolechi
 email: girasole@gmail.com
 description: Newbie R User | Accounting, Audit & Compliance Professional
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 
