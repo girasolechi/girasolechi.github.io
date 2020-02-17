@@ -4,8 +4,8 @@ title: Stefany Samp
 subtitle: girasolechi
 email: girasole@gmail.com
 description: Newbie R User | Accounting, Audit & Compliance Professional
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "/start" # the subpath of your site, e.g. /blog
+url: https://girasolechi.github.io
 author:
 street_address: 
 city: Chicago
