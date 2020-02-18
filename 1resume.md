@@ -19,7 +19,6 @@ image: assets/images/hello.jpg
 <p>Thanks for getting to know me! I've spent the last 12 years getting a broad range of experience in commercial compliance, internal audit, and accounting. My peers know that I challenge the status quo, improve processes, and love to coach others. I have a demonstrated history of successful transitions between functions and industries in global, multi-billion-dollar companies. I love to learn, so this year I’m expanding my data analysis toolbox by learning R and Python. Now on to the details:</p>
 
 <!-- Box -->
-<div class="row">
 <h3>Professional Experience</h3>
 	<div class="box">
 <h4>Global Program Manager, Commercial Compliance | Molex | Chicago, IL</h4>
@@ -44,6 +43,8 @@ image: assets/images/hello.jpg
 			<li>Identify and manage potential risk by developing compliance risk assessment processes and tools. Manage tracking, trending, and analysis of observations using Enablon.</li>
 			<li>Compliance areas managed include: Anti-Bribery and Corruption, Anti-Money Laundering, Antitrust, Code of Conduct, Conflicts of Interest, Government Interaction, and Intellectual Property.</li>
 		</ul>
+</div>
+
 <h3>Education</h3>
 	<div class="box">
 <h4>Global Program Manager, Commercial Compliance | Molex | Chicago, IL</h4>
