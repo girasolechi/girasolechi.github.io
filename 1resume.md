@@ -2,6 +2,7 @@
 layout: page
 title: Resume
 nav-menu: true
+image: assets/images/hello.jpg
 ---
 
 <!-- Main -->
