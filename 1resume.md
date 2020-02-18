@@ -19,11 +19,19 @@ image: assets/images/hello.jpg
 <p>Thanks for getting to know me! I've spent the last 12 years getting a broad range of experience in commercial compliance, internal audit, and accounting. My peers know that I challenge the status quo, improve processes, and love to coach others. I have a demonstrated history of successful transitions between functions and industries in global, multi-billion-dollar companies. I love to learn, so this year I’m expanding my data analysis toolbox by learning R and Python. Now on to the details:</p>
 
 <!-- Box -->
-<h2>Professional Experience</h2>
 <div class="box">
-<h3>Global Program Manager, Commercial Compliance | Molex</h3>
-<h1>Jan 2018 - Present | Chicago, IL</h1>
-	<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus lorem ipsum.</p>
+<h1>Professional Experience</h1>
+<h2>Global Program Manager, Commercial Compliance</h2>
+<h2>Molex | Chicago, IL</h2>
+<h3>Jan 2018 - Present</h3>
+<p>Current projects include building a compliance and ethics mobile application to get quick answers, request forms and contact information in employees’ hands; designing data analytics and dashboards to help management identify and manage corruption risk; building a conflicts of interest reporting tool; and developing a strategy for improving our compliance and stewardship culture.</p>
+		<ul>
+			<li>Develop commercial compliance program strategy. Work with regional managers to ensure programs are relevant and right-sized for our global footprint. Build relationships with other functional areas to understand compliance risks, meet business needs, and promote a compliance culture.</li>
+			<li>Develop and approve content for instructor-led and computer-based training, systems and communications. </li>
+			<li>Develop compliance program documentation, including guides that provide on-the-spot information to business users in quick, easy-to-understand format. Promote employee understanding and ownership of compliance risks.</li>
+			<li>Identify and manage potential risk by developing compliance risk assessment processes and tools. Manage tracking, trending, and analysis of observations using Enablon.</li>
+			<li>Compliance areas managed include: Anti-Bribery and Corruption, Anti-Money Laundering, Antitrust, Code of Conduct, Conflicts of Interest, Government Interaction, and Intellectual Property.</li>
+		</ul>
 </div>
 
 <div class="row">
