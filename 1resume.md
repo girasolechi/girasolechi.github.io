@@ -19,7 +19,9 @@ image: assets/images/hello.jpg
 <p>Thanks for getting to know me! I've spent the last 12 years getting a broad range of experience in commercial compliance, internal audit, and accounting. My peers know that I challenge the status quo, improve processes, and love to coach others. I have a demonstrated history of successful transitions between functions and industries in global, multi-billion-dollar companies. I love to learn, so this year I’m expanding my data analysis toolbox by learning R and Python. Now on to the details:</p>
 
 <!-- Box -->
-<div class="box">
+<div class="row">
+	<div class="6u 12u$(small)">
+	<div class="box">
 <h1>Professional Experience</h1>
 <h2>Global Program Manager, Commercial Compliance</h2>
 <h2>Molex | Chicago, IL</h2>
