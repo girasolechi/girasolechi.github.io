@@ -1,7 +1,7 @@
 ---
 title: Data Science and Analysis Portfolio
 layout: landing
-description: 
+description: My portfolio will be updated soon with R and Python projects. Stay tuned!
 image: assets/images/data.jpg
 nav-menu: true
 ---
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Project in R</h2>
+			<h2>Projects in R</h2>
 		</header>
 		<p>The following projects were completed using R in RStudio for MacOS.</p>
 	</div>
