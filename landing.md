@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Landing
 layout: landing
 description: 'As I learn R and Python, I'm documenting my journey and interesting projects here.'
 image: assets/images/pic07.jpg
