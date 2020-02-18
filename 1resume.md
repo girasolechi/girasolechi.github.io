@@ -19,35 +19,31 @@ image: assets/images/hello.jpg
 <p>Thanks for getting to know me! I've spent the last 12 years getting a broad range of experience in commercial compliance, internal audit, and accounting. My peers know that I challenge the status quo, improve processes, and love to coach others. I have a demonstrated history of successful transitions between functions and industries in global, multi-billion-dollar companies. I love to learn, so this year I’m expanding my data analysis toolbox by learning R and Python. Now on to the details:</p>
 
 <!-- Box -->
-<h3>Professional Experience</h3>
-	<div class="box">
-<h4>Global Program Manager, Commercial Compliance | Molex | Chicago, IL</h4>
-<h4>Jan 2018 - Present</h4>
-<p>Current projects include building a compliance and ethics mobile application to get quick answers, request forms and contact information in employees’ hands; designing data analytics and dashboards to help management identify and manage corruption risk; building a conflicts of interest reporting tool; and developing a strategy for improving our compliance and stewardship culture.</p>
+<div class="box">
+<h2>Professional Experience</h2>
+<h4>Global Program Manager, Commercial Compliance | Molex | Chicago, IL (Jan '18 - Present)</h4>
 		<ul>
+		  <li>Current projects include building a compliance and ethics mobile application to get quick answers, request forms and contact information in employees’ hands; designing data analytics and dashboards to help management identify and manage corruption risk; building a conflicts of interest reporting tool; and developing a strategy for improving our compliance and stewardship culture.</li>
 			<li>Develop commercial compliance program strategy. Work with regional managers to ensure programs are relevant and right-sized for our global footprint. Build relationships with other functional areas to understand compliance risks, meet business needs, and promote a compliance culture.</li>
 			<li>Develop and approve content for instructor-led and computer-based training, systems and communications. </li>
 			<li>Develop compliance program documentation, including guides that provide on-the-spot information to business users in quick, easy-to-understand format. Promote employee understanding and ownership of compliance risks.</li>
 			<li>Identify and manage potential risk by developing compliance risk assessment processes and tools. Manage tracking, trending, and analysis of observations using Enablon.</li>
 			<li>Compliance areas managed include: Anti-Bribery and Corruption, Anti-Money Laundering, Antitrust, Code of Conduct, Conflicts of Interest, Government Interaction, and Intellectual Property.</li>
 		</ul>
-</div>		
-		<div class="box">
-<h4>Global Program Manager, Commercial Compliance | Molex | Chicago, IL</h4>
-<h4>Jan 2018 - Present</h4>
-<p>Current projects include building a compliance and ethics mobile application to get quick answers, request forms and contact information in employees’ hands; designing data analytics and dashboards to help management identify and manage corruption risk; building a conflicts of interest reporting tool; and developing a strategy for improving our compliance and stewardship culture.</p>
+		
+<h4>Internal Audit Manager | Koch Companies Services | Wichita, KS (Oct '13 - Dec '17)</h4>
 		<ul>
-			<li>Develop commercial compliance program strategy. Work with regional managers to ensure programs are relevant and right-sized for our global footprint. Build relationships with other functional areas to understand compliance risks, meet business needs, and promote a compliance culture.</li>
-			<li>Develop and approve content for instructor-led and computer-based training, systems and communications. </li>
-			<li>Develop compliance program documentation, including guides that provide on-the-spot information to business users in quick, easy-to-understand format. Promote employee understanding and ownership of compliance risks.</li>
-			<li>Identify and manage potential risk by developing compliance risk assessment processes and tools. Manage tracking, trending, and analysis of observations using Enablon.</li>
-			<li>Compliance areas managed include: Anti-Bribery and Corruption, Anti-Money Laundering, Antitrust, Code of Conduct, Conflicts of Interest, Government Interaction, and Intellectual Property.</li>
+			<li>Commercial Compliance Audit Capability Leader: Ensured commercial compliance audit sustainability through development of scalable audit programs and talent gap identification. Worked with subject matter experts to propose, implement, and evaluate innovative commercial compliance audit approaches.</li>
+			<li>Business Relationship Partner for INVISTA: Drove annual financial risk assessment process and provided independent point of view on risks and related assurance activities. Ensured audit quality on all audits. Maintained collaborative trusted relationship with stakeholders. </li>
+			<li>Audit Manager: Delivered customer-focused, high quality, risk-adjusted internal audit and consulting services on a wide-range of operations, compliance and financial audit topics. Acted as either a participant or lead auditor depending on capabilities needed for the specific audit.</li>
+			<li>Enablon Implementation Leader for Koch Audit: Drove discussions with Koch Audit leaders to prioritize project implementation steps according to value for enterprise. Got hands on by testing in staging environments and managing data quality. Developed and conducted training for all Koch Audit users throughout multi-phase implementation. </li>
 		</ul>
 </div>
 
-<h3>Education</h3>
-	<div class="box">
-<h4>Global Program Manager, Commercial Compliance | Molex | Chicago, IL</h4>
+<div class="box">
+<h2>Education</h2>
+<h4>Master of Accounting | University of Kansas (2007)</h4>
+<h4>B.S. Accounting and Business Administration | University of Kansas (2006)</h4>
 </div>
 
 <div class="row">
@@ -174,9 +170,3 @@ Finally, this is a <a href="#">link</a>.</p>
 <h4>Stefany Samp</h4>
 <p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
 <p><span class="image right"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-
-<!-- Box -->
-<h3>Professional Experience</h3>
-<div class="box">
-	<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus lorem ipsum.</p>
-</div>
