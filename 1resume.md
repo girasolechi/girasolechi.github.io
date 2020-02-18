@@ -21,11 +21,22 @@ image: assets/images/hello.jpg
 <!-- Box -->
 <div class="row">
 	<div class="6u 12u$(small)">
+<h3>Professional Experience</h3>
 	<div class="box">
-<h1>Professional Experience</h1>
-<h2>Global Program Manager, Commercial Compliance</h2>
-<h2>Molex | Chicago, IL</h2>
-<h3>Jan 2018 - Present</h3>
+<h4>Global Program Manager, Commercial Compliance | Molex | Chicago, IL</h4>
+<h4>Jan 2018 - Present</h4>
+<p>Current projects include building a compliance and ethics mobile application to get quick answers, request forms and contact information in employees’ hands; designing data analytics and dashboards to help management identify and manage corruption risk; building a conflicts of interest reporting tool; and developing a strategy for improving our compliance and stewardship culture.</p>
+		<ul>
+			<li>Develop commercial compliance program strategy. Work with regional managers to ensure programs are relevant and right-sized for our global footprint. Build relationships with other functional areas to understand compliance risks, meet business needs, and promote a compliance culture.</li>
+			<li>Develop and approve content for instructor-led and computer-based training, systems and communications. </li>
+			<li>Develop compliance program documentation, including guides that provide on-the-spot information to business users in quick, easy-to-understand format. Promote employee understanding and ownership of compliance risks.</li>
+			<li>Identify and manage potential risk by developing compliance risk assessment processes and tools. Manage tracking, trending, and analysis of observations using Enablon.</li>
+			<li>Compliance areas managed include: Anti-Bribery and Corruption, Anti-Money Laundering, Antitrust, Code of Conduct, Conflicts of Interest, Government Interaction, and Intellectual Property.</li>
+		</ul>
+		
+		<div class="box">
+<h4>Global Program Manager, Commercial Compliance | Molex | Chicago, IL</h4>
+<h4>Jan 2018 - Present</h4>
 <p>Current projects include building a compliance and ethics mobile application to get quick answers, request forms and contact information in employees’ hands; designing data analytics and dashboards to help management identify and manage corruption risk; building a conflicts of interest reporting tool; and developing a strategy for improving our compliance and stewardship culture.</p>
 		<ul>
 			<li>Develop commercial compliance program strategy. Work with regional managers to ensure programs are relevant and right-sized for our global footprint. Build relationships with other functional areas to understand compliance risks, meet business needs, and promote a compliance culture.</li>
@@ -41,10 +52,7 @@ image: assets/images/hello.jpg
 		<h3>Sem turpis amet semper</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
-	</div>
+
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>Interdum sapien gravida</h3>
