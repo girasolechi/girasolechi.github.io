@@ -1,7 +1,7 @@
 ---
-title: Portfolio
+title: Data Science and Analysis Portfolio
 layout: landing
-description: 'As I learn R and Python, I'm documenting my journey and interesting projects here.'
+description: 
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
