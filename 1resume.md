@@ -20,7 +20,6 @@ image: assets/images/hello.jpg
 
 <!-- Box -->
 <div class="row">
-	<div class="6u 12u$(small)">
 <h3>Professional Experience</h3>
 	<div class="box">
 <h4>Global Program Manager, Commercial Compliance | Molex | Chicago, IL</h4>
@@ -45,7 +44,6 @@ image: assets/images/hello.jpg
 			<li>Identify and manage potential risk by developing compliance risk assessment processes and tools. Manage tracking, trending, and analysis of observations using Enablon.</li>
 			<li>Compliance areas managed include: Anti-Bribery and Corruption, Anti-Money Laundering, Antitrust, Code of Conduct, Conflicts of Interest, Government Interaction, and Intellectual Property.</li>
 		</ul>
-		<div class="6u 12u$(small)">
 <h3>Education</h3>
 	<div class="box">
 <h4>Global Program Manager, Commercial Compliance | Molex | Chicago, IL</h4>
