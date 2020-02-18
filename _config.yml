@@ -3,7 +3,7 @@
 title: Stefany Samp 
 subtitle: girasolechi
 email: girasole@gmail.com
-description: Newbie R User | Accounting, Audit & Compliance Professional
+description: Newbie R User | Accounting, Audit & Compliance Professional | Author
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://girasolechi.github.io
 author:
@@ -16,7 +16,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 4
+tiles-count: 8
 
 # social settings
 500px_url:
