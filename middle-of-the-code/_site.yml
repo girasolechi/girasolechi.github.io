@@ -3,6 +3,7 @@ title: "Middle of the Code"
 description: |
   Learning to code midway through a career.
 base_url: https://github.com/girasolechi/girasolechi.github.io
+output_dir: "."
 collections:
   posts:
     share: [twitter]
