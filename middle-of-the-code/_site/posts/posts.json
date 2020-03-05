@@ -1,0 +1,21 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Career Session 1: Resumes in Pagedown",
+    "description": "R-Ladies Chicago Meeting Notes from 2020-02-26",
+    "author": [
+      {
+        "name": "Stefany Samp",
+        "url": "https://github.com/girasolechi"
+      }
+    ],
+    "date": "2020-03-05",
+    "categories": [
+      "R",
+      "rladies",
+      "meetingnotes"
+    ],
+    "preview": {},
+    "last_modified": "2020-03-05T17:28:04-06:00"
+  }
+]
