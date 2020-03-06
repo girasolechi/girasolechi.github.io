@@ -2,8 +2,8 @@ name: "middle-of-the-code"
 title: "Middle of the Code"
 description: |
   Learning to code midway through a career.
-base_url: https://girasolechi.github.io
-output_dir: "middle-of-the-code"
+base_url: https://girasolechi.github.io/middle-of-the-code
+output_dir: ".""
 collections:
   posts:
     share: [twitter]
