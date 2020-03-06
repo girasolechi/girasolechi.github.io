@@ -1,5 +1,0 @@
----
-title: "Middle of the Code"
-site: distill::distill_website
-listing: posts
----

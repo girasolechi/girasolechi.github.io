@@ -1,0 +1,57 @@
+# Site
+name: 'Middle of the Code'
+description: 'A mid-life journey into data science and fiction writing.'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: '/mundana-theme-jekyll'
+disqus:
+email: 'wowthemesnet@gmail.com'
+mailchimp-list:
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    sal:
+      name:           Stefany
+      site:           https://github.girasolechi.io
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Stefany (she/her) is an accounting, audit and compliance professional with 12+ years of experience. She started learning R and Python in 2019 and was inspired by the awesome people at R-Ladies Chicago to blog about her experiences learning to code. Stefany is based in Chicago, IL and likes to stay busy volunteering at 826CHI and Back on My Feet, knitting slowly, writing scary stories, and exploring everything Chicago has to offer."
+      email:          girasolechi@gmail.com
+      twitter:        https://twitter.com/girasolechi
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: sal
+      avatar: /assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
